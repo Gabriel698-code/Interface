@@ -1,0 +1,89 @@
+@media screen and (max-width: 700px){
+    header .conteiner{
+        display: flex;
+        flex-direction: column;
+
+         
+    }
+
+    .Imagem{
+
+        position: absolute;
+        top: 400px;
+        right:0;
+        bottom:0;
+        left:0;
+        margin: auto;
+        
+    
+    }
+    .interacao1{
+
+        border: 1px black;
+        border-radius: 5px;
+        font-size: 13px;
+        margin: -5px;
+    
+        padding: 5px;
+    
+        background-color: rgb(6, 122, 6);;
+    
+        
+    }
+    
+    .interacao2{
+    
+        border: 1px black;
+        border-radius: 5px;
+        font-size: 13px;
+        margin: 5px;
+    
+        padding: 5px;
+    
+        background-color: rgb(6, 122, 6);;
+    
+    }
+    
+    .interacao3{
+    
+        border: 1px black;
+        border-radius: 5px;
+        font-size: 13px;
+        margin: 0px;
+    
+        padding: 5px;
+    
+        background-color: rgb(6, 122, 6);;
+    
+    }
+    
+    .interacao4{
+    
+        border: 1px black;
+        border-radius: 5px;
+        font-size: 13px;
+        margin: 2px;
+    
+        padding: 5px;
+    
+        background-color: rgb(6, 122, 6);;
+    
+    }
+    .botao{
+        background-color: rgb(4, 99, 4);
+        border: none;
+        color: rgb(255, 255, 255);
+    
+    
+        padding: 20px;
+        margin-top: 200px;
+        margin-right: 10px;
+        font-size: 12px;
+        font-style: italic;
+    
+        cursor: pointer;
+    }
+
+    
+}
+    
