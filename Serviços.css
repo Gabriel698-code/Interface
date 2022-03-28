@@ -1,0 +1,74 @@
+.Servicos{
+    text-align: center;
+    font-size: 10px;
+    color: white;
+
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    background-color: #0f810f;
+    border-radius: 10px;
+
+    margin-left: 25px;
+    margin-right: auto;
+    display: block;
+    width: 250px;
+    
+}
+
+.infos{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    margin-top: 15px;
+    line-height: 26px;
+    text-decoration: rgb(10, 104, 23);
+}
+
+.campodeenvio{
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(4, 77, 4);
+    border-radius: 5px;
+}
+
+.Enviar{
+    width: 410px;
+    background-color: #0c580c;
+    color: white;
+    cursor: pointer;
+}
+
+.Enviar:hover{
+    background-color: rgb(31, 168, 61);
+}
+
+.Imagem2{
+    position: absolute;
+    top: 200px;
+    right:0;
+    bottom:0;
+    left:500px;
+    margin: auto;
+    width: 600px;
+    
+}
+
+.Nota{
+    text-align: center;
+    background-color: #0f810f;
+    color: white;
+    display: block;
+    width: 350px;
+    margin-left: 750px;
+    margin-top: -50px;
+    border-radius: 10px;
+
+}
+
+.Tnota{
+    text-decoration: underline 3px;
+}
+
