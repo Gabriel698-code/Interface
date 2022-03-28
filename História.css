@@ -1,0 +1,19 @@
+.História{
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    text-decoration: underline;
+
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    background-color: #0f810f;
+    border-radius: 10px;
+
+    margin-left: 525px;
+    margin-right: auto;
+    display: block;
+    width: 250px;
+}
