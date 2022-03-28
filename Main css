@@ -1,0 +1,204 @@
+:root{
+
+    --verdescuro:#05612b;
+    --preto:#000000;
+    --branco:#ffffff;
+    --verdeclaro:#1ca856;
+    
+
+}
+
+
+body{
+font-family: 'Times New Roman', Times, serif;
+
+margin: 20;
+padding: 20;
+box-sizing: border-box;
+color: rgb(6, 88, 6);
+
+
+background: rgb(255, 255, 255);
+    
+}
+
+
+header .logo{
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    text-decoration: underline;
+    font-size: 30px;
+    color:var(--verdescuro)
+
+}
+
+.logo2{
+    margin: 0px;
+    color:var(--verdeclaro);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+
+
+header .conteiner{
+border: 1px solid #000000;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+margin-left: 25px;
+margin-right: 25px;
+
+}
+
+
+header nav a{
+
+text-decoration: none;
+color: white;
+margin-right: 20px;
+
+}
+
+.interacao1{
+
+    border: 1px black;
+    border-radius: 5px;
+
+    padding: 15px;
+
+    background-color: rgb(6, 122, 6);;
+
+    
+}
+
+.interacao2{
+
+    border: 1px black;
+    border-radius: 5px;
+
+    padding: 15px;
+
+    background-color: rgb(6, 122, 6);;
+
+}
+
+.interacao3{
+
+    border: 1px black;
+    border-radius: 5px;
+
+    padding: 15px;
+
+    background-color: rgb(6, 122, 6);;
+
+}
+
+.interacao4{
+
+    border: 1px black;
+    border-radius: 5px;
+
+    padding: 15px;
+
+    background-color: rgb(6, 122, 6);;
+
+}
+
+header nav a:hover{
+    
+background-color: rgb(47, 180, 47);
+
+}
+
+.logocentral{
+font-size: 16px;
+display: flex;
+height: 520px;
+background-size: cover;
+justify-content: center;
+align-items: flex-start;
+
+
+}
+
+.Imagem{
+
+    position: absolute;
+    top: 70px;
+    right:0;
+    bottom:0;
+    left:0;
+    margin: auto;
+    
+
+}
+
+.descricao{
+    margin-bottom: 150px;
+}
+
+.boasvindas{
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+.botao{
+    background-color: rgb(4, 99, 4);
+    border: none;
+    color: rgb(255, 255, 255);
+
+
+    padding: 20px;
+    margin-top: 200px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-style: italic;
+
+    cursor: pointer;
+}
+
+.botao:hover{
+
+    background-color: var(--verdeclaro);
+
+}
+
+
+.box-menu{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.titulocarrocel{
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.fundo2{
+    background-color: rgb(236, 241, 241);
+}
+
+.Conteinerinferior{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+    border: solid, 1px, #000000;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: rgb(10, 87, 29);
+    color: white;
+    margin-top: 100px;
+}
+
+.Fundadores{
+    margin-top: 10px;
+}
